@@ -1,0 +1,7 @@
+DATASET LINK : AS DATASET IS VERY LARGE TO BE PUSHED TO GITHUB ( 400 MB )
+
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+
+# ONLY ADDED TOMATO CLASSES
+
